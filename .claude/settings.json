@@ -135,7 +135,7 @@
       "mcp__n8n-mcp__tools_documentation",
       "mcp__n8n-mcp__n8n_autofix_workflow",
       "mcp__n8n-mcp__n8n_delete_workflow",
-      "mcp__n8n-mcp__n8n_executions",
+      "mcp__n8n-mcp__n8n_executions"
     ],
     "deny": [],
     "ask": []
