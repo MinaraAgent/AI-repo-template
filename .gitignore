@@ -209,11 +209,11 @@ marimo/_lsp/
 __marimo__/
 
 # temp files
-# /debug/
+/debug/
 /core
 
 # AI files
-# /.ai/
+/.ai/
 /.claude/externals/
 /.mcp.json
 /.claude/local.settings.json
